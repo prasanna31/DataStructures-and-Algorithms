@@ -1,2 +1,2 @@
-# DataStructures-and-Algorithms
-Dedicated repo of all the learning strategy for data structures and algorithms
+Complete journey of learning and working in this computer world.
+
