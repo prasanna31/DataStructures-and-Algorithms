@@ -1,1 +1,6 @@
+**Introduction to arrays**
+Arrays are sequential storage of unique elements.
+arrays have assigned with continuous memory.
+Eg : 1|2|3|4|5|6|7
+In the above example 1,2,3,4,5,6 and 7 are integers and those are stored continously in memory.(a123ab|a123ac|a123ad|a123ae|a123af|a123ba|a123bb).
 
